@@ -1,5 +1,8 @@
 # St. Matthews Martial Arts - Soundboard
 
+> **⚠️ Personal Hobby Project** — This is an independent, personal project by [Alan Blount](https://github.com/zeroasterisk). It is **not affiliated with, endorsed by, or supported by any employer, company, or organization**. No warranty; use at your own risk.
+
+
 Idea: a mobile app which presents a soundboard for common sayings,
 from various instructors.
 

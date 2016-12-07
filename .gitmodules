@@ -1,0 +1,3 @@
+[submodule "mobile-starterkit"]
+	path = mobile-starterkit
+	url = https://github.com/start-react/native-starter-kit.git
